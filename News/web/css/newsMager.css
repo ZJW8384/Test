@@ -1,0 +1,70 @@
+#util{
+    width: 120px;
+    height: 300px;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    padding-top: 30px;
+    position: relative;
+    top: 50px;
+    font-weight: bolder;
+    color: #007bff;
+
+}
+#util span{
+    /*background-color: black;*/
+    cursor: pointer;
+    display: block;
+    margin-top: 10px;
+}
+#msg {
+    width: 500px;
+    height: 150px;
+}
+#newsadd {
+    /*border: 1px solid black;*/
+    position: fixed;
+    top: 60px;
+    left: 400px;
+}
+#newsedit{
+    position: fixed;
+    top: 60px;
+    left: 400px;
+}
+#edmsg{
+    width: 500px;
+    height: 200px;
+}
+#subadd{
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+#adds{
+    font-size: 30px;
+    color: #007bff;
+    cursor:pointer;
+}
+#adds:hover{
+    color: #c9302c;
+}
+#editsub{
+    position: relative;
+    top: 100px;
+    left: 160px;
+}
+#div-input{
+    position: relative;
+    left: -100px;
+    margin: 0 auto;
+    width: 850px;
+}
+#div-table{
+    border: 1px solid black;
+    width: 600px;
+    margin: 0 auto;
+    position:relative;
+    left: -80px;
+    padding-left: 40px;
+}

@@ -1,0 +1,38 @@
+#discuss{
+    clear: both;
+    position: relative;
+    left:100px;
+}
+#mess{
+    font-size: 13px;
+    color: #6c757d;
+    position: relative;
+    left: 530px;
+}
+#pi{
+    width: 600px;
+    height: 100px;
+}
+#log{
+    position: relative;
+    left: 50px;
+}
+#pingl{
+    padding-bottom: 20px;
+    width: 700px;
+    margin: 10px auto;
+
+}
+td{
+    width: 50px!important;
+}
+#foot{
+    border: #0b2e13 dashed 1px;
+    width:900px;
+    position: relative;
+    top: 50px;
+    left: 250px;
+    border-radius:30px;
+    margin-bottom: 40px;
+    /*margin: 0 auto;*/
+}

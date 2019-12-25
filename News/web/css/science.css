@@ -1,0 +1,45 @@
+#mimg{
+    /*opacity: .3;*/
+    width: 150px;
+    height: 100px;
+    border: none;
+}
+body{
+    background-color: #abdde5;
+}
+#head{
+    /*background: #00B2D2;*/
+    /*width:1250px;*/
+    background: steelblue;
+    margin: 0 auto;
+    height: 100px;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+#tk{
+    clear: both;
+    width: 350px;
+    height: 500px;
+    clear: both;
+    padding-left: 20px;
+    position:absolute;
+    top: 200px;
+    border: royalblue 1px solid;
+}
+a:hover{
+    color: #c9302c !important;
+}
+#mores{
+    clear: both;
+    width: 600px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+#des{
+    display: block;
+    position: relative;
+    left: 180px;
+    top: -100px;
+}

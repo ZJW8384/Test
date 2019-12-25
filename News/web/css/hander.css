@@ -1,0 +1,15 @@
+.navs{
+    display: block;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bolder;
+    margin-left: 50px !important;
+}
+.navs>a:hover{
+    color: teal !important;
+    background-color: #c9302c!important;
+    transition: .8s
+}
+#well{
+    color: orangered;
+}
