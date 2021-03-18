@@ -3,6 +3,13 @@ package com.t2;
 import java.util.Arrays;
 
 public class MaoPao {
+ /**
+  * @description 冒泡算法
+  * @param num
+  * @author
+  * @date 2021/3/10 20:01
+  * @return void
+  */
     public static void shorts(int[] num){
         if (num==null || num.length<2){
             return;
@@ -18,6 +25,14 @@ public class MaoPao {
         }
         System.out.println(Arrays.toString(num));
     }
+
+    /**
+     * @description 插入排序
+     * @param b
+     * @author
+     * @date 2021/3/9 8:05
+     * @return void
+     */
 
     public static void chalu(int[] b){
         if (b==null||b.length<2){

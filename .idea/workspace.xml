@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf97fd58-0a09-4189-8dcc-615bbb3f7a3d" name="Default Changelist" comment="" />
+    <list default="true" id="bf97fd58-0a09-4189-8dcc-615bbb3f7a3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/com/t2/MaoPao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/com/t2/MaoPao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/t2/MaoPao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/t2/MaoPao.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,16 +47,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MaoPao">
+  <component name="RunManager" selected="Application.Jiecheng">
     <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.t1.Account" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.t1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jiecheng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.t2.Jiecheng" />
+      <module name="DailyPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.t2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,6 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jiecheng" />
         <item itemvalue="Application.MaoPao" />
         <item itemvalue="Application.XiYouJiRenWu" />
         <item itemvalue="Application.Account" />
@@ -135,6 +152,18 @@
       <workItem from="1614823081842" duration="1922000" />
       <workItem from="1615354335235" duration="591000" />
       <workItem from="1615355027311" duration="1785000" />
+      <workItem from="1615376837477" duration="872000" />
+      <workItem from="1615795454672" duration="930000" />
+      <workItem from="1615804344648" duration="3710000" />
+      <workItem from="1615813726051" duration="652000" />
+      <workItem from="1615888992044" duration="879000" />
+      <workItem from="1615938683033" duration="22000" />
+      <workItem from="1615939714094" duration="63000" />
+      <workItem from="1615940004012" duration="178000" />
+      <workItem from="1615941092203" duration="275000" />
+      <workItem from="1615941459234" duration="86000" />
+      <workItem from="1615941561193" duration="630000" />
+      <workItem from="1616025541163" duration="1151000" />
     </task>
     <servers />
   </component>
@@ -151,35 +180,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1612101697797">
+    <state x="399" y="193" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1615377642595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1612101697797" />
+    <state x="399" y="193" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1615377642595" />
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1615941347320">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1615941347320" />
     <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1615355246240">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1615355246240" />
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1614825810578">
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom" timestamp="1615890170690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614825810578" />
-    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1614825810578">
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615890170690" />
+    <state width="1323" height="102" key="GridCell.Tab.0.center" timestamp="1615890170689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614825810578" />
-    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1614825810578">
+    <state width="1323" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615890170689" />
+    <state width="1323" height="102" key="GridCell.Tab.0.left" timestamp="1615890170689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614825810578" />
-    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1614825810578">
+    <state width="1323" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615890170689" />
+    <state width="1323" height="102" key="GridCell.Tab.0.right" timestamp="1615890170690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614825810578" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1612101459938">
+    <state width="1323" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615890170690" />
+    <state x="368" y="0" key="SettingsEditor" timestamp="1615377689900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1615377689900" />
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612101459938" />
     <state x="274" y="0" key="new project wizard" timestamp="1608262356418">
       <screen x="0" y="0" width="1366" height="728" />
@@ -189,9 +224,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1608188883793" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1615355446084">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1615806111778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1615355446084" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1615806111778" />
   </component>
 </project>
